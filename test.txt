@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 mastet
 issue2
 issue2_1
@@ -6,3 +7,6 @@ issue3_1
 
 
 add comment
+=======
+master 1
+>>>>>>> 3dde94619d5885c0e6e0b3b29a38d71adefe12e0
